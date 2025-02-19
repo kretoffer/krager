@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kretoffer/krager">
-    <!--<img src="images/logo.png" alt="Logo" width="80" height="80">-->
+    <img src="https://github.com/user-attachments/assets/c6792bd8-6f8a-43df-a6ed-369e054c7fe0" alt="Logo" width="180" height="180">
   </a>
 
   <h2 align="center">Krager</h2>
