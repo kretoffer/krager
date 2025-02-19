@@ -58,6 +58,12 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+![krager (4)](https://github.com/user-attachments/assets/e33bddca-575d-4da3-9b53-664bb7323268)
+[schemes](https://miro.com/app/board/uXjVLHGlJjo=/?share_link_id=995419118977)
+
+
+[design](https://www.figma.com/proto/ekf31UjO1MYS9fpiRzBGuv/krager?node-id=0-1&t=J56MWkFntgHJbjYz-1)
+
 
 The project aims to create a unique and innovative social network that provides users with the opportunity to easily and safely interact, share content and find like-minded people.
 
