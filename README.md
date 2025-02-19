@@ -48,6 +48,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#other-repositories">Other repositories</a></li>
   </ol>
 </details>
 
@@ -135,7 +136,9 @@ Your Name - [@kretoffik](https://t.me/kretoffi) - sup-krager@yandex.by
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## Other repositories
+* [central spcket](https://github.com/kretoffer/krager-centralSocket)
+* [fron end (flutter)](https://github.com/kretoffer/krager-flutter)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
