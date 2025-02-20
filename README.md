@@ -62,6 +62,10 @@
 [schemes](https://miro.com/app/board/uXjVLHGlJjo=/?share_link_id=995419118977)
 
 
+
+![krager figma screenshorts 1](https://github.com/user-attachments/assets/29911e19-9026-43dc-b24a-685610472bea)
+![krager figma screenshorts 2](https://github.com/user-attachments/assets/02cf7628-7856-4e5a-b13e-d11e4af9b399)
+
 [design](https://www.figma.com/proto/ekf31UjO1MYS9fpiRzBGuv/krager?node-id=0-1&t=J56MWkFntgHJbjYz-1)
 
 
