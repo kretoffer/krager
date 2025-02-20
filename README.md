@@ -161,5 +161,5 @@ Your Name - [@kretoffik](https://t.me/kretoffi) - sup-krager@yandex.by
 [issues-shield]: https://img.shields.io/github/issues/kretoffer/krager.svg?style=flat
 [issues-url]: https://github.com/kretoffer/krager/issues
 [license-shield]: https://img.shields.io/github/license/kretoffer/krager.svg?style=flat
-[license-url]: https://github.com/kretoffer/krager/blob/master/LICENSE.txt
+[license-url]: https://github.com/kretoffer/krager/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
