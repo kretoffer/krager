@@ -97,6 +97,8 @@ The server part of the project uses the python library asyncio for asynchronous 
 ## Roadmap
 
 - [ ] Multi-language Support
+    - [ ] English
+    - [ ] Russian 
     - [ ] Chinese
     - [ ] Spanish
 
