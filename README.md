@@ -144,7 +144,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@kretoffik](https://t.me/kretoffi) - sup-krager@yandex.by
+Your Name - [@kretoffik](https://t.me/kretoffik) - sup-krager@yandex.by
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
